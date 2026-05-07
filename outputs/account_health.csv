@@ -1,0 +1,33 @@
+account,n_touchpoints,n_support,n_external,n_escalations,avg_sentiment,latest_sentiment,sentiment_trend,churn_signals,last_seen,health_score,risk_band
+Northstar Pharma,2,0,2,2,2.1,2.1,-0.0,2,2026-03-15 14:30:00+00:00,1.5,Critical
+Helix Data,1,0,1,1,2.3,2.3,0.0,1,2026-03-17 11:45:00+00:00,19.5,Critical
+Ridgeline Logistics,3,2,1,0,2.63,2.4,-0.5,1,2026-03-14 17:15:00+00:00,24.7,Critical
+Summit Trust,3,2,1,0,2.87,2.4,-0.7,1,2026-04-15 12:30:00+00:00,25.6,Critical
+Quantum Edge,1,0,1,0,2.4,2.4,0.0,1,2026-03-19 16:00:00+00:00,30.0,At Risk
+Crestline Wealth,3,1,2,0,3.67,2.4,-0.7,2,2026-04-27 10:15:00+00:00,31.6,At Risk
+Stratos Cloud,2,1,1,0,3.55,2.4,-2.3,1,2026-04-22 12:30:00+00:00,31.7,At Risk
+Ironworks Corp,1,0,1,0,2.6,2.6,0.0,1,2026-04-14 13:45:00+00:00,35.0,At Risk
+Brightpath Commerce,4,2,2,0,3.25,2.6,-0.3,1,2026-04-22 15:30:00+00:00,35.6,At Risk
+Nova Retail Group,2,1,1,0,2.45,2.6,0.3,1,2026-03-21 11:15:00+00:00,36.4,At Risk
+Steelpoint Manufacturing,2,1,1,0,2.6,2.8,0.4,2,2026-03-24 17:45:00+00:00,36.8,At Risk
+Clearwater Medical,2,1,1,0,3.6,2.4,-2.4,0,2026-04-10 17:30:00+00:00,37.2,At Risk
+Ironclad Financial,1,0,1,0,2.8,2.8,0.0,1,2026-03-28 12:30:00+00:00,40.0,At Risk
+Cobalt Software,2,0,2,1,2.6,3.4,1.6,2,2026-04-11 14:15:00+00:00,43.2,At Risk
+Meridian Capital,3,2,1,0,3.17,3.4,-0.15,1,2026-03-26 14:00:00+00:00,48.2,At Risk
+Silverline Brands,4,3,1,0,3.38,3.9,0.21,0,2026-04-18 09:15:00+00:00,63.3,Watch
+Pineridge Systems,2,1,1,0,4.3,3.9,-0.8,1,2026-03-04 10:15:00+00:00,64.9,Watch
+Frostbyte AI,2,0,2,0,4.25,3.7,-1.1,0,2026-04-25 14:45:00+00:00,65.0,Watch
+Pinnacle Insurance,2,1,1,0,3.5,3.6,0.2,0,2026-04-16 13:00:00+00:00,66.0,Watch
+Blackridge Investments,4,1,3,1,3.95,4.8,0.34,2,2026-04-25 17:15:00+00:00,71.8,Healthy
+Trailhead Marketplace,2,1,1,0,2.95,4.5,3.1,2,2026-04-05 14:30:00+00:00,72.0,Healthy
+Harborview Banking,1,0,1,0,3.9,3.9,0.0,0,2026-03-05 15:30:00+00:00,72.5,Healthy
+Bridgeport Health,2,0,2,0,4.1,4.1,0.0,1,2026-04-23 13:30:00+00:00,72.5,Healthy
+Atlas Precision,2,0,2,0,4.0,4.3,0.6,2,2026-04-28 12:45:00+00:00,74.9,Healthy
+Axiom Labs,1,0,1,0,4.2,4.2,0.0,1,2026-04-17 09:45:00+00:00,75.0,Healthy
+Forge Industries,3,2,1,0,4.1,4.1,0.35,0,2026-04-09 11:15:00+00:00,77.9,Healthy
+Coastal Living Co,4,2,2,0,3.53,4.8,-0.03,0,2026-04-19 15:15:00+00:00,79.0,Healthy
+Keystone Health,1,0,1,0,4.4,4.4,0.0,1,2026-03-09 16:45:00+00:00,80.0,Healthy
+Vanta Health Systems,3,2,1,0,3.17,4.7,1.15,0,2026-02-28 17:30:00+00:00,82.3,Healthy
+Maplewood Goods,1,0,1,0,4.8,4.8,0.0,0,2026-02-27 14:45:00+00:00,95.0,Healthy
+Redwood Clinical,2,0,2,0,4.0,4.8,1.6,0,2026-04-26 13:30:00+00:00,96.2,Healthy
+Nimbus Platform,2,1,1,0,4.15,4.8,1.3,0,2026-04-01 16:15:00+00:00,97.1,Healthy

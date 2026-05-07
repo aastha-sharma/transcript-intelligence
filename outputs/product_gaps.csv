@@ -1,0 +1,10 @@
+gap,total_calls,support_calls,external_calls,internal_calls,n_unique_accounts,avg_sentiment,min_sentiment,cross_channel,severity_score
+comply_v2,56,5,31,20,27,3.82,1.8,True,173.6
+competitive_pressure,32,1,21,10,19,3.0,1.4,True,150.0
+billing_overages,29,8,14,7,19,3.54,2.4,True,139.2
+detect_reliability,38,5,13,20,15,3.07,1.8,True,128.6
+sso_mfa,28,8,13,7,16,3.5,1.8,True,125.0
+backup_performance,30,9,15,6,15,3.6,1.4,True,118.0
+detect_alerting,10,4,5,1,8,2.85,1.4,True,98.0
+logvault_connector,8,4,3,1,7,3.15,2.4,True,87.0
+scim_provisioning,12,4,4,4,7,3.84,2.4,True,73.2

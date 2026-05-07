@@ -1,0 +1,154 @@
+{
+  "themes": [
+    {
+      "name": "Compliance & Audit",
+      "description": "Discussion around regulatory compliance, audit preparation, and compliance reporting.",
+      "absorbs": [
+        "compliance",
+        "compliance reporting",
+        "hipaa compliance",
+        "pci dss",
+        "soc 2",
+        "audit preparation",
+        "compliance audit",
+        "regulatory compliance",
+        "hipaa",
+        "pci dss compliance",
+        "soc 2 compliance",
+        "multi-framework compliance",
+        "compliance requirements",
+        "audit readiness",
+        "audit workflow",
+        "compliance frameworks",
+        "compliance roadmap",
+        "gdpr roadmap"
+      ]
+    },
+    {
+      "name": "Reliability & Outages",
+      "description": "Discussion around service reliability, outages, incident response, and remediation.",
+      "absorbs": [
+        "outage",
+        "platform outage",
+        "service outage",
+        "incident response",
+        "incident communication",
+        "outage post-mortem",
+        "incident review",
+        "reliability engineering",
+        "infrastructure reliability",
+        "platform reliability",
+        "pipeline reliability",
+        "outage follow-up",
+        "outage remediation",
+        "incident escalation",
+        "incident follow-up",
+        "incident post-mortem",
+        "incident risk",
+        "reliability concern",
+        "customer reliability concerns"
+      ]
+    },
+    {
+      "name": "Product & Roadmap",
+      "description": "Discussion around product features, roadmap planning, and product launches.",
+      "absorbs": [
+        "product launch",
+        "product roadmap",
+        "feature request",
+        "product demo",
+        "product bug",
+        "product feedback",
+        "product gaps",
+        "feature gaps",
+        "product integration",
+        "product expansion",
+        "early access program",
+        "product early access",
+        "product visibility",
+        "product upsell",
+        "cross-sell",
+        "upsell opportunity"
+      ]
+    },
+    {
+      "name": "Identity & Access Management",
+      "description": "Discussion around identity management, access controls, and authentication.",
+      "absorbs": [
+        "identity management",
+        "identity & access management",
+        "identity access management",
+        "mfa policy",
+        "sso configuration",
+        "okta integration",
+        "scim provisioning",
+        "access control",
+        "authentication failure",
+        "mfa enforcement",
+        "mfa migration",
+        "identity deployment",
+        "identity federation",
+        "role management",
+        "saml certificate rotation"
+      ]
+    },
+    {
+      "name": "Churn & Retention",
+      "description": "Discussion around customer churn, retention risks, and strategies.",
+      "absorbs": [
+        "churn risk",
+        "customer retention",
+        "customer churn",
+        "customer retention risk",
+        "renewal risk",
+        "customer renewals"
+      ]
+    },
+    {
+      "name": "Billing & Pricing",
+      "description": "Discussion around billing disputes, pricing, and contract negotiations.",
+      "absorbs": [
+        "billing dispute",
+        "pricing",
+        "overage charges",
+        "contract negotiation",
+        "invoice overage",
+        "billing adjustment",
+        "proration error",
+        "license upgrade",
+        "credit request",
+        "service credits",
+        "sla credits"
+      ]
+    },
+    {
+      "name": "Security & Threats",
+      "description": "Discussion around security threats, monitoring, and incident response.",
+      "absorbs": [
+        "threat monitoring",
+        "security monitoring",
+        "incident tracking",
+        "threat detection",
+        "fraud monitoring",
+        "ot security",
+        "security training",
+        "behavioral detection",
+        "monitoring gaps",
+        "observability and alerting"
+      ]
+    },
+    {
+      "name": "Onboarding & Support",
+      "description": "Discussion around onboarding, support issues, and escalation.",
+      "absorbs": [
+        "onboarding",
+        "support response time",
+        "support issue",
+        "technical issue",
+        "escalation",
+        "support escalation",
+        "p1 escalation"
+      ]
+    }
+  ]
+}
